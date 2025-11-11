@@ -99,20 +99,20 @@ mobile-price-predictor/
 
 
 
-> ### Price Prediction Page
+> 1. ### Price Prediction Page
 ![Price Prediction](images/p2.PNG)
 ![Price Prediction](images/p3.PNG)
-> ### Data Analysis Page
+> 2. ### Data Analysis Page
 ![Data Analysis](images/Pa.PNG)
 ![Data Analysis](images/pb.PNG)
 ![Data Analysis](images/pc.PNG)
 ![Data Analysis](images/pd.PNG)
-> ### Model Evaluation Page
+> 3.  ### Model Evaluation Page
 ![Model Evaluation](images/c1.PNG)
 ![Model Evaluation](images/c2.PNG)
 ![Model Evaluation](images/c3.PNG)
 
-> ### About Page
+> 4.  ### About Page
 ![About Page](images/d2.PNG)
 
 ---
