@@ -103,7 +103,7 @@ mobile-price-predictor/
 ![Price Prediction](images/p2.PNG)
 ![Price Prediction](images/p3.PNG)
 **Data Analysis Page**
-![Data Analysis](images/pa.PNG)
+![Data Analysis](images/Pa.PNG)
 ![Data Analysis](images/pb.PNG)
 ![Data Analysis](images/pc.PNG)
 ![Data Analysis](images/pd.PNG)
