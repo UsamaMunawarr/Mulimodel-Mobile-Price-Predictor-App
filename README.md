@@ -101,20 +101,20 @@ mobile-price-predictor/
 
 
 **Price Prediction Page**
-![Price Prediction](images\p2.PNG)
-![Price Prediction](images\p3.PNG)
+![Price Prediction](images/p2.PNG)
+![Price Prediction](images/p3.PNG)
 **Data Analysis Page**
-![Data Analysis](images\pa.PNG)
-![Data Analysis](images\pb.PNG)
-![Data Analysis](images\pc.PNG)
-![Data Analysis](images\pd.PNG)
+![Data Analysis](images/pa.PNG)
+![Data Analysis](images/pb.PNG)
+![Data Analysis](images/pc.PNG)
+![Data Analysis](images/pd.PNG)
 **Model Evaluation Page**
-![Model Evaluation](images\c1.PNG)
-![Model Evaluation](images\c2.PNG)
-![Model Evaluation](images\c3.PNG)
+![Model Evaluation](images/c1.PNG)
+![Model Evaluation](images/c2.PNG)
+![Model Evaluation](images/c3.PNG)
 
 **About Page**
-![About Page](images\d2.PNG)
+![About Page](images/d2.PNG)
 
 ---
 
