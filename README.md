@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue) ![Streamlit](https://img.shields.io/badge/Streamlit-v1.30-orange) ![License](https://img.shields.io/badge/License-MIT-green) ![GitHub issues](https://img.shields.io/github/issues/UsamaMunawarr/mobile-price-predictor) ![GitHub stars](https://img.shields.io/github/stars/UsamaMunawarr/mobile-price-predictor)
 
-![App Screenshot](images\p1.PNG)
+![App Screenshot](images/p1.PNG)
 *A preview of the Mobile Price Predictor app.*
 
 ---
