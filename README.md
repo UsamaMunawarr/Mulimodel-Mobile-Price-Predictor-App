@@ -81,7 +81,6 @@ mobile-price-predictor/
 ├─ stacking_ensemble_model.pkl
 ├─ random_forest_model.pkl
 ├─ linear_regression_model.pkl
-├─ mobiles.png                    # Default dashboard image
 └─ README.md
 ```
 
